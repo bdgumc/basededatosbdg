@@ -45,6 +45,13 @@
     },
     {
       "id": 7,
+      "usuario": "INGM-32410498",
+      "contraseña": "32410498ig",
+      "estatus": "activo",
+      "jerarquia": "asp"
+    },
+    {
+      "id": 7,
       "usuario": "SANTAMARIA",
       "contraseña": "ofbdg",
       "estatus": "activo",
