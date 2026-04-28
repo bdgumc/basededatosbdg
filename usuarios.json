@@ -24,6 +24,20 @@
     },
     {
       "id": 4,
+      "usuario": "INGM-32412505",
+      "contraseña": "Rosmy..721",
+      "estatus": "activo",
+      "jerarquia": "asp"
+    },
+    {
+      "id": 5,
+      "usuario": "INGM-32434011",
+      "contraseña": "tetas123",
+      "estatus": "activo",
+      "jerarquia": "asp"
+    },
+    {
+      "id": 4,
       "usuario": "CDT",
       "contraseña": "32370953ef",
       "estatus": "activo",
