@@ -1,69 +1,69 @@
 {
-  "ultima_actualizacion": "2026-04-26T15:45:00Z",
-  "usuarios": [
-    {
-      "id": 1,
-      "usuario": "INGM-32370953",
-      "contraseña": "32370953ef",
-      "estatus": "activo",
-      "jerarquia": "administrador"
-      "mencion": "Instalaciones"
-    },
-    {
-      "id": 2,
-      "usuario": "INGM-30886890",
-      "contraseña": "30886890dg",
-      "estatus": "suspendido",
-      "jerarquia": "mayor"
-      "mencion": "Operaciones"
-    },
-    {
-      "id": 3,
-      "usuario": "ASP",
-      "contraseña": "32370953ef",
-      "estatus": "activo",
-      "jerarquia": "asp"
-      "mencion": "Instalaciones"
-    },
-    {
-      "id": 4,
-      "usuario": "INGM-32412505",
-      "contraseña": "Rosmy..721",
-      "estatus": "activo",
-      "jerarquia": "asp"
-      "mencion": "Instalaciones"
-    },
-    {
-      "id": 5,
-      "usuario": "INGM-32434011",
-      "contraseña": "tetas123",
-      "estatus": "activo",
-      "jerarquia": "asp"
-      "mencion": "Instalaciones"
-    },
-    {
-      "id": 6,
-      "usuario": "CDT",
-      "contraseña": "32370953ef",
-      "estatus": "activo",
-      "jerarquia": "CDT"
-      "mencion": "Instalaciones"
-    },
-    {
-      "id": 7,
-      "usuario": "INGM-32410498",
-      "contraseña": "32410498ig",
-      "estatus": "activo",
-      "jerarquia": "asp"
-      "mencion": "Instalaciones"
-    },
-    {
-      "id": 7,
-      "usuario": "SANTAMARIA",
-      "contraseña": "ofbdg",
-      "estatus": "activo",
-      "jerarquia": "administrador"
-      "mencion": "Instalaciones"
-    }
-  ]
+    "ultima_actualizacion": "2026-04-29T23:16:17Z",
+    "usuarios": [
+        {
+            "id": 1,
+            "usuario": "INGM-32370953",
+            "contrase\u00f1a": "$2y$10$x2o1NFUhTwBJpUwh0iALHu\/SeScc5llnL8euU46xPqDkTT7Vf4aFW",
+            "estatus": "activo",
+            "jerarquia": "administrador",
+            "mencion": "Instalaciones"
+        },
+        {
+            "id": 2,
+            "usuario": "INGM-30886890",
+            "contrase\u00f1a": "30886890dg",
+            "estatus": "suspendido",
+            "jerarquia": "mayor",
+            "mencion": "Operaciones"
+        },
+        {
+            "id": 3,
+            "usuario": "ASP",
+            "contrase\u00f1a": "32370953ef",
+            "estatus": "activo",
+            "jerarquia": "asp",
+            "mencion": "Instalaciones"
+        },
+        {
+            "id": 4,
+            "usuario": "INGM-32412505",
+            "contrase\u00f1a": "Rosmy..721",
+            "estatus": "activo",
+            "jerarquia": "asp",
+            "mencion": "Instalaciones"
+        },
+        {
+            "id": 5,
+            "usuario": "INGM-32434011",
+            "contrase\u00f1a": "tetas123",
+            "estatus": "activo",
+            "jerarquia": "asp",
+            "mencion": "Instalaciones"
+        },
+        {
+            "id": 6,
+            "usuario": "CDT",
+            "contrase\u00f1a": "32370953ef",
+            "estatus": "activo",
+            "jerarquia": "CDT",
+            "mencion": "Instalaciones"
+        },
+        {
+            "id": 7,
+            "usuario": "INGM-32410498",
+            "contrase\u00f1a": "32410498ig",
+            "estatus": "activo",
+            "jerarquia": "asp",
+            "mencion": "Instalaciones"
+        },
+        {
+            "id": 7,
+            "usuario": "SANTAMARIA",
+            "contrase\u00f1a": "ofbdg",
+            "estatus": "activo",
+            "jerarquia": "administrador",
+            "mencion": "Instalaciones"
+        }
+    ]
 }
