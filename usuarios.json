@@ -1,5 +1,5 @@
 {
-    "ultima_actualizacion": "2026-04-30T04:57:10Z",
+    "ultima_actualizacion": "2026-04-30T11:08:07Z",
     "usuarios": [
         {
             "id": 1,
@@ -72,6 +72,14 @@
             "estatus": "suspendido",
             "jerarquia": "asp",
             "mencion": "Operaciones"
+        },
+        {
+            "id": 9,
+            "usuario": "INGM-32629553",
+            "contrase\u00f1a": "$2y$10$DcHlILyXFfbISxCYcXbKDOTvu8qlPCq.ZthH4EjTIyL1zxPHJYPTW",
+            "estatus": "activo",
+            "jerarquia": "asp",
+            "mencion": "Operaciones "
         }
     ]
 }
