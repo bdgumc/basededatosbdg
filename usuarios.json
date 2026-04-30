@@ -1,10 +1,10 @@
 {
-    "ultima_actualizacion": "2026-04-29T23:16:17Z",
+    "ultima_actualizacion": "2026-04-30T03:43:15Z",
     "usuarios": [
         {
             "id": 1,
             "usuario": "INGM-32370953",
-            "contrase\u00f1a": "$2y$10$x2o1NFUhTwBJpUwh0iALHu\/SeScc5llnL8euU46xPqDkTT7Vf4aFW",
+            "contrase\u00f1a": "$2y$10$2jhZBTt.V\/iQ5vXiDppEJ.sDwhGM\/fiksaVpKXCGOR3CVQ.d6nu6m",
             "estatus": "activo",
             "jerarquia": "administrador",
             "mencion": "Instalaciones"
