@@ -1,5 +1,5 @@
 {
-    "ultima_actualizacion": "2026-04-30T03:43:15Z",
+    "ultima_actualizacion": "2026-04-30T03:50:50Z",
     "usuarios": [
         {
             "id": 1,
@@ -12,7 +12,7 @@
         {
             "id": 2,
             "usuario": "INGM-30886890",
-            "contrase\u00f1a": "30886890dg",
+            "contrase\u00f1a": "$2y$10$wpSEIAtPhRE4cVebp6L5QeRLV2r15mqnptNgsewZIP5ayWZ7uLGn6",
             "estatus": "activo",
             "jerarquia": "mayor",
             "mencion": "Operaciones"
