@@ -1,5 +1,5 @@
 {
-    "ultima_actualizacion": "2026-04-30T04:01:02Z",
+    "ultima_actualizacion": "2026-04-30T04:57:10Z",
     "usuarios": [
         {
             "id": 1,
@@ -28,7 +28,7 @@
         {
             "id": 4,
             "usuario": "INGM-32412505",
-            "contrase\u00f1a": "Rosmy..721",
+            "contrase\u00f1a": "$2y$10$d6n9WvKSOWtz4q0s7\/RWJOUnkgLPrX47.t1F6TZd0T2u.6SlG7vuG",
             "estatus": "activo",
             "jerarquia": "asp",
             "mencion": "Instalaciones"
