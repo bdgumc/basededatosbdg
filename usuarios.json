@@ -13,7 +13,7 @@
             "id": 2,
             "usuario": "INGM-30886890",
             "contrase\u00f1a": "30886890dg",
-            "estatus": "suspendido",
+            "estatus": "activo",
             "jerarquia": "mayor",
             "mencion": "Operaciones"
         },
@@ -46,7 +46,7 @@
             "usuario": "CDT",
             "contrase\u00f1a": "32370953ef",
             "estatus": "activo",
-            "jerarquia": "CDT",
+            "jerarquia": "suspendido",
             "mencion": "Instalaciones"
         },
         {
