@@ -1,5 +1,5 @@
 {
-    "ultima_actualizacion": "2026-04-30T03:52:57Z",
+    "ultima_actualizacion": "2026-04-30T04:01:02Z",
     "usuarios": [
         {
             "id": 1,
@@ -64,6 +64,14 @@
             "estatus": "activo",
             "jerarquia": "administrador",
             "mencion": "Instalaciones"
+        },
+        {
+            "id": 8,
+            "usuario": "INGM-34202010",
+            "contrase\u00f1a": "$2y$10$lZyX0ddsFowWN4ve2GHl3.XdIRth.cYKoHEqvsLKIn.D3J82ueuQK",
+            "estatus": "suspendido",
+            "jerarquia": "asp",
+            "mencion": "Operaciones"
         }
     ]
 }
