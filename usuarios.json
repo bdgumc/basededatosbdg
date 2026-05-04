@@ -1,5 +1,5 @@
 {
-    "ultima_actualizacion": "2026-05-04T02:40:51Z",
+    "ultima_actualizacion": "2026-05-04T02:47:49Z",
     "usuarios": [
         {
             "id": 1,
@@ -68,7 +68,7 @@
         {
             "id": 8,
             "usuario": "INGM-34202010",
-            "contrase\u00f1a": "$2y$10$lZyX0ddsFowWN4ve2GHl3.XdIRth.cYKoHEqvsLKIn.D3J82ueuQK",
+            "contrase\u00f1a": "$2y$10$vyvfZ1refG0wKOLvd1tj9O6QP6AxnKER.whkiiUU6EzxMsYuYyDmO",
             "estatus": "activo",
             "jerarquia": "asp",
             "mencion": "Operaciones"
