@@ -4,82 +4,142 @@
         {
             "id": 1,
             "usuario": "INGM-32370953",
-            "contrase\u00f1a": "$2y$10$2jhZBTt.V\/iQ5vXiDppEJ.sDwhGM\/fiksaVpKXCGOR3CVQ.d6nu6m",
+            "contraseña": "$2y$10$2jhZBTt.V/iQ5vXiDppEJ.sDwhGM/fiksaVpKXCGOR3CVQ.d6nu6m",
             "estatus": "activo",
             "jerarquia": "administrador",
-            "mencion": "Instalaciones"
+            "mencion": "Instalaciones",
+            "primer_nombre": "",
+            "segundo_nombre": "",
+            "primer_apellido": "",
+            "segundo_apellido": "",
+            "cedula": "",
+            "cohorte": ""
         },
         {
             "id": 2,
             "usuario": "INGM-30886890",
-            "contrase\u00f1a": "$2y$10$wpSEIAtPhRE4cVebp6L5QeRLV2r15mqnptNgsewZIP5ayWZ7uLGn6",
+            "contraseña": "$2y$10$wpSEIAtPhRE4cVebp6L5QeRLV2r15mqnptNgsewZIP5ayWZ7uLGn6",
             "estatus": "activo",
             "jerarquia": "mayor",
-            "mencion": "Operaciones"
+            "mencion": "Operaciones",
+            "primer_nombre": "",
+            "segundo_nombre": "",
+            "primer_apellido": "",
+            "segundo_apellido": "",
+            "cedula": "",
+            "cohorte": ""
         },
         {
             "id": 3,
             "usuario": "ASP",
-            "contrase\u00f1a": "32370953ef",
+            "contraseña": "32370953ef",
             "estatus": "activo",
             "jerarquia": "asp",
-            "mencion": "Instalaciones"
+            "mencion": "Instalaciones",
+            "primer_nombre": "",
+            "segundo_nombre": "",
+            "primer_apellido": "",
+            "segundo_apellido": "",
+            "cedula": "",
+            "cohorte": ""
         },
         {
             "id": 4,
             "usuario": "INGM-32412505",
-            "contrase\u00f1a": "$2y$10$d6n9WvKSOWtz4q0s7\/RWJOUnkgLPrX47.t1F6TZd0T2u.6SlG7vuG",
+            "contraseña": "$2y$10$d6n9WvKSOWtz4q0s7/RWJOUnkgLPrX47.t1F6TZd0T2u.6SlG7vuG",
             "estatus": "activo",
             "jerarquia": "asp",
-            "mencion": "Instalaciones"
+            "mencion": "Instalaciones",
+            "primer_nombre": "",
+            "segundo_nombre": "",
+            "primer_apellido": "",
+            "segundo_apellido": "",
+            "cedula": "",
+            "cohorte": ""
         },
         {
             "id": 5,
             "usuario": "INGM-32434011",
-            "contrase\u00f1a": "tetas123",
+            "contraseña": "tetas123",
             "estatus": "activo",
             "jerarquia": "asp",
-            "mencion": "Instalaciones"
+            "mencion": "Instalaciones",
+            "primer_nombre": "",
+            "segundo_nombre": "",
+            "primer_apellido": "",
+            "segundo_apellido": "",
+            "cedula": "",
+            "cohorte": ""
         },
         {
             "id": 6,
             "usuario": "CDT",
-            "contrase\u00f1a": "32370953ef",
+            "contraseña": "32370953ef",
             "estatus": "activo",
             "jerarquia": "suspendido",
-            "mencion": "Instalaciones"
+            "mencion": "Instalaciones",
+            "primer_nombre": "",
+            "segundo_nombre": "",
+            "primer_apellido": "",
+            "segundo_apellido": "",
+            "cedula": "",
+            "cohorte": ""
         },
         {
             "id": 7,
             "usuario": "INGM-32410498",
-            "contrase\u00f1a": "32410498ig",
+            "contraseña": "32410498ig",
             "estatus": "activo",
             "jerarquia": "asp",
-            "mencion": "Instalaciones"
+            "mencion": "Instalaciones",
+            "primer_nombre": "",
+            "segundo_nombre": "",
+            "primer_apellido": "",
+            "segundo_apellido": "",
+            "cedula": "",
+            "cohorte": ""
         },
         {
             "id": 7,
             "usuario": "SANTAMARIA",
-            "contrase\u00f1a": "ofbdg",
+            "contraseña": "ofbdg",
             "estatus": "activo",
             "jerarquia": "administrador",
-            "mencion": "Instalaciones"
+            "mencion": "Instalaciones",
+            "primer_nombre": "",
+            "segundo_nombre": "",
+            "primer_apellido": "",
+            "segundo_apellido": "",
+            "cedula": "",
+            "cohorte": ""
         },
         {
             "id": 8,
             "usuario": "INGM-34202010",
-            "contrase\u00f1a": "$2y$10$vyvfZ1refG0wKOLvd1tj9O6QP6AxnKER.whkiiUU6EzxMsYuYyDmO",
+            "contraseña": "$2y$10$vyvfZ1refG0wKOLvd1tj9O6QP6AxnKER.whkiiUU6EzxMsYuYyDmO",
             "estatus": "activo",
             "jerarquia": "asp",
-            "mencion": "Operaciones"
+            "mencion": "Operaciones",
+            "primer_nombre": "",
+            "segundo_nombre": "",
+            "primer_apellido": "",
+            "segundo_apellido": "",
+            "cedula": "",
+            "cohorte": ""
         },
         {
             "id": 9,
             "usuario": "INGM-32629553",
-            "contrase\u00f1a": "$2y$10$DcHlILyXFfbISxCYcXbKDOTvu8qlPCq.ZthH4EjTIyL1zxPHJYPTW",
+            "contraseña": "$2y$10$DcHlILyXFfbISxCYcXbKDOTvu8qlPCq.ZthH4EjTIyL1zxPHJYPTW",
             "estatus": "activo",
             "jerarquia": "asp",
-            "mencion": "Operaciones "
+            "mencion": "Operaciones ",
+            "primer_nombre": "",
+            "segundo_nombre": "",
+            "primer_apellido": "",
+            "segundo_apellido": "",
+            "cedula": "",
+            "cohorte": ""
         }
     ]
 }
