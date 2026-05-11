@@ -1,5 +1,5 @@
 {
-    "ultima_actualizacion": "2026-05-11T06:48:24Z",
+    "ultima_actualizacion": "2026-05-11T07:05:58Z",
     "usuarios": [
         {
             "id": 1,
@@ -22,12 +22,12 @@
             "estatus": "activo",
             "jerarquia": "mayor",
             "mencion": "Operaciones",
-            "primer_nombre": "",
-            "segundo_nombre": "",
-            "primer_apellido": "",
-            "segundo_apellido": "",
-            "cedula": "",
-            "cohorte": ""
+            "primer_nombre": "Dikender",
+            "segundo_nombre": "Smith",
+            "primer_apellido": "Gonzales",
+            "segundo_apellido": "Bello",
+            "cedula": "30886890",
+            "cohorte": "2023-02"
         },
         {
             "id": 3,
