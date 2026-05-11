@@ -1,5 +1,5 @@
 {
-    "ultima_actualizacion": "2026-05-11T06:21:39Z",
+    "ultima_actualizacion": "2026-05-11T06:48:24Z",
     "usuarios": [
         {
             "id": 1,
@@ -50,12 +50,12 @@
             "estatus": "activo",
             "jerarquia": "asp",
             "mencion": "Instalaciones",
-            "primer_nombre": "",
-            "segundo_nombre": "",
-            "primer_apellido": "",
-            "segundo_apellido": "",
-            "cedula": "",
-            "cohorte": ""
+            "primer_nombre": "ROSMY",
+            "segundo_nombre": "DANIEL",
+            "primer_apellido": "COLMENARES",
+            "segundo_apellido": "ARAUJO",
+            "cedula": "32412505",
+            "cohorte": "2025-1"
         },
         {
             "id": 5,
