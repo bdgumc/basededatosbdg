@@ -1,16 +1,22 @@
 {
-    "ultima_actualizacion": "2026-05-11T06:21:39Z",
+    "ultima_actualizacion": "2026-05-11T07:02:27Z",
     "admins": [
         {
             "usuario": "INGM-32370953",
-            "codigo_activo": "A7K-9X2",
-            "codigos_usados": ["0B3-A23", "M5P-2L8"],
-            "codigos_generados": 3
+            "codigo_activo": "JX8-JOE",
+            "codigos_usados": [
+                "0B3-A23",
+                "M5P-2L8",
+                "A7K-9X2"
+            ],
+            "codigos_generados": 4
         },
         {
             "usuario": "SANTAMARIA",
             "codigo_activo": "R4T-7Y1",
-            "codigos_usados": ["7X9-KL4"],
+            "codigos_usados": [
+                "7X9-KL4"
+            ],
             "codigos_generados": 2
         }
     ]
