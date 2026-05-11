@@ -1,24 +1,24 @@
 {
-    "ultima_actualizacion": "2026-05-04T02:47:49Z",
+    "ultima_actualizacion": "2026-05-11T06:21:39Z",
     "usuarios": [
         {
             "id": 1,
             "usuario": "INGM-32370953",
-            "contraseña": "$2y$10$2jhZBTt.V/iQ5vXiDppEJ.sDwhGM/fiksaVpKXCGOR3CVQ.d6nu6m",
+            "contrase\u00f1a": "$2y$10$2jhZBTt.V\/iQ5vXiDppEJ.sDwhGM\/fiksaVpKXCGOR3CVQ.d6nu6m",
             "estatus": "activo",
             "jerarquia": "administrador",
             "mencion": "Instalaciones",
-            "primer_nombre": "",
-            "segundo_nombre": "",
-            "primer_apellido": "",
-            "segundo_apellido": "",
-            "cedula": "",
-            "cohorte": ""
+            "primer_nombre": "Enyerson",
+            "segundo_nombre": "Manuel",
+            "primer_apellido": "Fernandez",
+            "segundo_apellido": "Hernandez",
+            "cedula": "32370953",
+            "cohorte": "2025-1"
         },
         {
             "id": 2,
             "usuario": "INGM-30886890",
-            "contraseña": "$2y$10$wpSEIAtPhRE4cVebp6L5QeRLV2r15mqnptNgsewZIP5ayWZ7uLGn6",
+            "contrase\u00f1a": "$2y$10$wpSEIAtPhRE4cVebp6L5QeRLV2r15mqnptNgsewZIP5ayWZ7uLGn6",
             "estatus": "activo",
             "jerarquia": "mayor",
             "mencion": "Operaciones",
@@ -32,7 +32,7 @@
         {
             "id": 3,
             "usuario": "ASP",
-            "contraseña": "32370953ef",
+            "contrase\u00f1a": "32370953ef",
             "estatus": "activo",
             "jerarquia": "asp",
             "mencion": "Instalaciones",
@@ -46,7 +46,7 @@
         {
             "id": 4,
             "usuario": "INGM-32412505",
-            "contraseña": "$2y$10$d6n9WvKSOWtz4q0s7/RWJOUnkgLPrX47.t1F6TZd0T2u.6SlG7vuG",
+            "contrase\u00f1a": "$2y$10$d6n9WvKSOWtz4q0s7\/RWJOUnkgLPrX47.t1F6TZd0T2u.6SlG7vuG",
             "estatus": "activo",
             "jerarquia": "asp",
             "mencion": "Instalaciones",
@@ -60,7 +60,7 @@
         {
             "id": 5,
             "usuario": "INGM-32434011",
-            "contraseña": "tetas123",
+            "contrase\u00f1a": "tetas123",
             "estatus": "activo",
             "jerarquia": "asp",
             "mencion": "Instalaciones",
@@ -74,7 +74,7 @@
         {
             "id": 6,
             "usuario": "CDT",
-            "contraseña": "32370953ef",
+            "contrase\u00f1a": "32370953ef",
             "estatus": "activo",
             "jerarquia": "suspendido",
             "mencion": "Instalaciones",
@@ -88,7 +88,7 @@
         {
             "id": 7,
             "usuario": "INGM-32410498",
-            "contraseña": "32410498ig",
+            "contrase\u00f1a": "32410498ig",
             "estatus": "activo",
             "jerarquia": "asp",
             "mencion": "Instalaciones",
@@ -102,7 +102,7 @@
         {
             "id": 7,
             "usuario": "SANTAMARIA",
-            "contraseña": "ofbdg",
+            "contrase\u00f1a": "ofbdg",
             "estatus": "activo",
             "jerarquia": "administrador",
             "mencion": "Instalaciones",
@@ -116,7 +116,7 @@
         {
             "id": 8,
             "usuario": "INGM-34202010",
-            "contraseña": "$2y$10$vyvfZ1refG0wKOLvd1tj9O6QP6AxnKER.whkiiUU6EzxMsYuYyDmO",
+            "contrase\u00f1a": "$2y$10$vyvfZ1refG0wKOLvd1tj9O6QP6AxnKER.whkiiUU6EzxMsYuYyDmO",
             "estatus": "activo",
             "jerarquia": "asp",
             "mencion": "Operaciones",
@@ -130,7 +130,7 @@
         {
             "id": 9,
             "usuario": "INGM-32629553",
-            "contraseña": "$2y$10$DcHlILyXFfbISxCYcXbKDOTvu8qlPCq.ZthH4EjTIyL1zxPHJYPTW",
+            "contrase\u00f1a": "$2y$10$DcHlILyXFfbISxCYcXbKDOTvu8qlPCq.ZthH4EjTIyL1zxPHJYPTW",
             "estatus": "activo",
             "jerarquia": "asp",
             "mencion": "Operaciones ",
