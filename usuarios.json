@@ -1,5 +1,5 @@
 {
-    "ultima_actualizacion": "2026-05-11T07:05:58Z",
+    "ultima_actualizacion": "2026-05-12T11:59:39Z",
     "usuarios": [
         {
             "id": 1,
@@ -140,6 +140,14 @@
             "segundo_apellido": "",
             "cedula": "",
             "cohorte": ""
+        },
+        {
+            "id": 10,
+            "usuario": "INGM-31926906",
+            "contrase\u00f1a": "$2y$10$lN51wuAm2TK1mfhDf.fg6OLNifqSrB7IXOq9Fe0xOc.azSTPUUurm",
+            "estatus": "activo",
+            "jerarquia": "asp",
+            "mencion": "Operaciones"
         }
     ]
 }
