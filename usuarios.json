@@ -1,5 +1,5 @@
 {
-    "ultima_actualizacion": "2026-05-12T11:59:39Z",
+    "ultima_actualizacion": "2026-05-13T18:24:59Z",
     "usuarios": [
         {
             "id": 1,
@@ -120,12 +120,12 @@
             "estatus": "activo",
             "jerarquia": "asp",
             "mencion": "Operaciones",
-            "primer_nombre": "",
-            "segundo_nombre": "",
-            "primer_apellido": "",
-            "segundo_apellido": "",
-            "cedula": "",
-            "cohorte": ""
+            "primer_nombre": "Jorge",
+            "segundo_nombre": "Daniel",
+            "primer_apellido": "Tesorero",
+            "segundo_apellido": "Garc\u00eda",
+            "cedula": "34202010",
+            "cohorte": "2025-2"
         },
         {
             "id": 9,
