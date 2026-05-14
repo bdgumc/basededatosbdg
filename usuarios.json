@@ -1,5 +1,5 @@
 {
-    "ultima_actualizacion": "2026-05-14T16:59:46Z",
+    "ultima_actualizacion": "2026-05-14T18:33:50Z",
     "usuarios": [
         {
             "id": 1,
@@ -155,7 +155,13 @@
             "contrase\u00f1a": "$2y$10$grAVmcxVz2fXc5sx1PKZDO\/LpVvraCljHVgKombSnKcIQ0clH4ApC",
             "estatus": "activo",
             "jerarquia": "asp",
-            "mencion": "Instalaciones "
+            "mencion": "Instalaciones ",
+            "primer_nombre": "Angel",
+            "segundo_nombre": "Andres",
+            "primer_apellido": "Hidalgo",
+            "segundo_apellido": "Sanz",
+            "cedula": "32516175",
+            "cohorte": "2025-1"
         }
     ]
 }
