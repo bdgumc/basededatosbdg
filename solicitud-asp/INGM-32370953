@@ -1,0 +1,24 @@
+{
+    "fecha": "2026-05-14T18:33:50Z",
+    "solicitud-asp": [
+        {
+            "usuario": "INGM-0000000000",
+			"contraseña": "prueba",
+			"correo": "preuba@mail.com",
+			"telefono": "0412-8208326",
+			"I.A": "14",
+            "estatus": "activo",
+            "jerarquia": "asp",
+            "mencion": "Instalaciones",
+            "primer_nombre": "Julian",
+            "segundo_nombre": "Manuel",
+            "primer_apellido": "Fernandez",
+            "segundo_apellido": "Hernandez",
+            "cedula": "34505010",
+            "cohorte": "2025-1"
+			"intrumento": "Granadero"
+        },
+        {
+		}
+    ]
+}
