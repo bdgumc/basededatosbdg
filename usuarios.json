@@ -1,5 +1,5 @@
 {
-    "ultima_actualizacion": "2026-05-14T18:33:50Z",
+    "ultima_actualizacion": "2026-05-17T09:57:52Z",
     "usuarios": [
         {
             "id": 1,
@@ -162,6 +162,27 @@
             "segundo_apellido": "Sanz",
             "cedula": "32516175",
             "cohorte": "2025-1"
+        },
+        {
+            "id": 12,
+            "usuario": "INGAMB-32370954",
+            "contrase\u00f1a": "$2y$10$o95LkDnUVlH8rfb6KoGGROHGmil7aIefcYnJBWE9ElBNXUTeGzvG2",
+            "estatus": "activo",
+            "jerarquia": "asp",
+            "mencion": "Aspirante",
+            "primer_nombre": "Enyerson",
+            "segundo_nombre": "Manuel",
+            "primer_apellido": "Fernandez",
+            "segundo_apellido": "Hernandez",
+            "cedula": "32370954",
+            "cohorte": "2025-1",
+            "correo": "ofmanuelle@proton.me",
+            "telefono": "04128208326",
+            "instrumento": "Corneta",
+            "carrera_codigo": "INGAMB",
+            "carrera_nombre": "Ingenier\u00eda Ambiental",
+            "fecha_solicitud": "2026-05-17T00:35:39Z",
+            "fecha_actualizacion": "2026-05-17T09:57:52Z"
         }
     ]
 }
