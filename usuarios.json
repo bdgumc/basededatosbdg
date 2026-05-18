@@ -1,5 +1,5 @@
 {
-    "ultima_actualizacion": "2026-05-17T09:57:52Z",
+    "ultima_actualizacion": "2026-05-18T01:33:03Z",
     "usuarios": [
         {
             "id": 1,
@@ -183,6 +183,23 @@
             "carrera_nombre": "Ingenier\u00eda Ambiental",
             "fecha_solicitud": "2026-05-17T00:35:39Z",
             "fecha_actualizacion": "2026-05-17T09:57:52Z"
+        },
+        {
+            "id": 13,
+            "usuario": "INGM-34202030",
+            "contrase\u00f1a": "$2y$10$rYHVKTqtSpb9nAi00Zz8n.vPMu04QsbqAaMEmOiBqhUYZIpwN8p8m",
+            "estatus": "activo",
+            "jerarquia": "asp",
+            "mencion": "Aspirante",
+            "primer_nombre": "ASD",
+            "segundo_nombre": "ASP",
+            "primer_apellido": "ASSp",
+            "segundo_apellido": "ASP",
+            "cedula": "34202030",
+            "cohorte": "2025-1",
+            "correo": "prueba@gmail.com",
+            "telefono": "041292093267",
+            "instrumento": "Granadero"
         }
     ]
 }
