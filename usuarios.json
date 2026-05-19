@@ -1,5 +1,5 @@
 {
-    "ultima_actualizacion": "2026-05-19T16:27:13Z",
+    "ultima_actualizacion": "2026-05-19T22:38:26Z",
     "usuarios": [
         {
             "id": 1,
@@ -200,6 +200,23 @@
             "correo": "prueba@gmail.com",
             "telefono": "041292093267",
             "instrumento": "Granadero"
+        },
+        {
+            "id": 14,
+            "usuario": "INGM-32696528",
+            "contrase\u00f1a": "$2y$10$Rf58zlVroGw79gCYHU3T8OmaJz.Zy3.mFtB1szINEgS3u4PqoEg7O",
+            "estatus": "activo",
+            "jerarquia": "asp",
+            "mencion": "Aspirante",
+            "primer_nombre": "Nelson",
+            "segundo_nombre": "Alexander",
+            "primer_apellido": "Mendez",
+            "segundo_apellido": "Ochoa",
+            "cedula": "32696528",
+            "cohorte": "2025-1",
+            "correo": "mendezonelsona@gmail.com",
+            "telefono": "04127488345",
+            "instrumento": "Lira"
         }
     ]
 }
