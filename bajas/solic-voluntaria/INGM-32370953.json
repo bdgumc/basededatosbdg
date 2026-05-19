@@ -1,0 +1,16 @@
+{
+    "username": "INGM-32370953",
+    "nombre_completo": "Enyerson Manuel Fernandez Hernandez",
+    "cedula": "V-32370953",
+    "condicion": "Cadete Antiguo",
+    "motivo": "Motivos estrictamente personales",
+    "motivo_codificado": "Motivos estrictamente personales",
+    "motivo_otros": null,
+    "fecha_solicitud": "2026-05-19T16:24:04Z",
+    "estado": "pendiente",
+    "fecha_estado": "2026-05-19T16:24:04Z",
+    "fecha_rechazo_automatico": null,
+    "fecha_aprobacion": null,
+    "comentarios_admin": null,
+    "documento_generado": true
+}
