@@ -1,5 +1,5 @@
 {
-    "ultima_actualizacion": "2026-05-18T01:33:03Z",
+    "ultima_actualizacion": "2026-05-19T16:27:13Z",
     "usuarios": [
         {
             "id": 1,
@@ -74,7 +74,7 @@
         {
             "id": 6,
             "usuario": "CDT",
-            "contrase\u00f1a": "32370953ef",
+            "contrase\u00f1a": "$2y$10$AqL\/uSxw.lcTgKWa\/LhRRuqfZA2bi5whmFcDs4JrY0tyMW7PL4EMW",
             "estatus": "activo",
             "jerarquia": "antiguo",
             "mencion": "Instalaciones",
