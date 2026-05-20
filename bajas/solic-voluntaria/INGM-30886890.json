@@ -1,0 +1,16 @@
+{
+    "username": "INGM-30886890",
+    "nombre_completo": "Dikender Smith Gonzales Bello",
+    "cedula": "V-30886890",
+    "condicion": "Cadete Antiguo",
+    "motivo": "Cambio de residencia",
+    "motivo_codificado": "Cambio de residencia",
+    "motivo_otros": null,
+    "fecha_solicitud": "2026-05-20T02:46:01Z",
+    "estado": "pendiente",
+    "fecha_estado": "2026-05-20T02:46:01Z",
+    "fecha_rechazo_automatico": null,
+    "fecha_aprobacion": null,
+    "comentarios_admin": null,
+    "documento_generado": true
+}
