@@ -1,5 +1,5 @@
 {
-    "ultima_actualizacion": "2026-05-20T01:16:20Z",
+    "ultima_actualizacion": "2026-05-20T02:13:41Z",
     "usuarios": [
         {
             "id": 1,
@@ -221,6 +221,23 @@
             "correo": "mendezonelsona@gmail.com",
             "telefono": "04127488345",
             "instrumento": "Lira"
+        },
+        {
+            "id": 13,
+            "usuario": "INGM-32120167",
+            "contrase\u00f1a": "$2y$10$iY2Ks939eevYo7pqkX79Ceg4ima8gcK9LT6ni5a2brAz5mtDwS\/j6",
+            "estatus": "activo",
+            "jerarquia": "mayor",
+            "mencion": "Operaciones",
+            "primer_nombre": "Jean Paul",
+            "segundo_nombre": "Eduardo",
+            "primer_apellido": "RAMIREZ",
+            "segundo_apellido": "OLIVAREZ",
+            "cedula": "32120167",
+            "cohorte": "",
+            "correo": "",
+            "telefono": "",
+            "instrumento": "Bombo"
         }
     ]
 }
