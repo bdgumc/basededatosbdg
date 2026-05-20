@@ -4,7 +4,7 @@
         {
             "id": 1,
             "usuario": "INGM-32370953",
-            "contrase\u00f1a": "$2y$10$2jhZBTt.V\/iQ5vXiDppEJ.sDwhGM\/fiksaVpKXCGOR3CVQ.d6nu6m",
+            "contraseña": "$2y$10$2jhZBTt.V/iQ5vXiDppEJ.sDwhGM/fiksaVpKXCGOR3CVQ.d6nu6m",
             "estatus": "activo",
             "jerarquia": "administrador",
             "mencion": "Instalaciones",
@@ -13,12 +13,15 @@
             "primer_apellido": "Fernandez",
             "segundo_apellido": "Hernandez",
             "cedula": "32370953",
-            "cohorte": "2025-1"
+            "cohorte": "2025-1",
+            "correo": "",
+            "telefono": "",
+            "instrumento": ""
         },
         {
             "id": 2,
             "usuario": "INGM-30886890",
-            "contrase\u00f1a": "$2y$10$wpSEIAtPhRE4cVebp6L5QeRLV2r15mqnptNgsewZIP5ayWZ7uLGn6",
+            "contraseña": "$2y$10$wpSEIAtPhRE4cVebp6L5QeRLV2r15mqnptNgsewZIP5ayWZ7uLGn6",
             "estatus": "activo",
             "jerarquia": "mayor",
             "mencion": "Operaciones",
@@ -27,12 +30,15 @@
             "primer_apellido": "Gonzales",
             "segundo_apellido": "Bello",
             "cedula": "30886890",
-            "cohorte": "2023-02"
+            "cohorte": "2023-02",
+            "correo": "",
+            "telefono": "",
+            "instrumento": ""
         },
         {
             "id": 3,
             "usuario": "ASP",
-            "contrase\u00f1a": "32370953ef",
+            "contraseña": "32370953ef",
             "estatus": "activo",
             "jerarquia": "asp",
             "mencion": "Instalaciones",
@@ -41,12 +47,15 @@
             "primer_apellido": "",
             "segundo_apellido": "",
             "cedula": "",
-            "cohorte": ""
+            "cohorte": "",
+            "correo": "",
+            "telefono": "",
+            "instrumento": ""
         },
         {
             "id": 4,
             "usuario": "INGM-32412505",
-            "contrase\u00f1a": "$2y$10$d6n9WvKSOWtz4q0s7\/RWJOUnkgLPrX47.t1F6TZd0T2u.6SlG7vuG",
+            "contraseña": "$2y$10$d6n9WvKSOWtz4q0s7/RWJOUnkgLPrX47.t1F6TZd0T2u.6SlG7vuG",
             "estatus": "activo",
             "jerarquia": "asp",
             "mencion": "Instalaciones",
@@ -55,12 +64,15 @@
             "primer_apellido": "COLMENARES",
             "segundo_apellido": "ARAUJO",
             "cedula": "32412505",
-            "cohorte": "2025-1"
+            "cohorte": "2025-1",
+            "correo": "",
+            "telefono": "",
+            "instrumento": ""
         },
         {
             "id": 5,
             "usuario": "INGM-32434011",
-            "contrase\u00f1a": "tetas123",
+            "contraseña": "tetas123",
             "estatus": "activo",
             "jerarquia": "asp",
             "mencion": "Instalaciones",
@@ -69,12 +81,15 @@
             "primer_apellido": "",
             "segundo_apellido": "",
             "cedula": "",
-            "cohorte": ""
+            "cohorte": "",
+            "correo": "",
+            "telefono": "",
+            "instrumento": ""
         },
         {
             "id": 6,
             "usuario": "CDT",
-            "contrase\u00f1a": "$2y$10$AqL\/uSxw.lcTgKWa\/LhRRuqfZA2bi5whmFcDs4JrY0tyMW7PL4EMW",
+            "contraseña": "$2y$10$AqL/uSxw.lcTgKWa/LhRRuqfZA2bi5whmFcDs4JrY0tyMW7PL4EMW",
             "estatus": "activo",
             "jerarquia": "antiguo",
             "mencion": "Instalaciones",
@@ -83,12 +98,15 @@
             "primer_apellido": "",
             "segundo_apellido": "",
             "cedula": "",
-            "cohorte": ""
+            "cohorte": "",
+            "correo": "",
+            "telefono": "",
+            "instrumento": ""
         },
         {
             "id": 7,
             "usuario": "INGM-32410498",
-            "contrase\u00f1a": "32410498ig",
+            "contraseña": "32410498ig",
             "estatus": "activo",
             "jerarquia": "asp",
             "mencion": "Instalaciones",
@@ -97,12 +115,15 @@
             "primer_apellido": "",
             "segundo_apellido": "",
             "cedula": "",
-            "cohorte": ""
+            "cohorte": "",
+            "correo": "",
+            "telefono": "",
+            "instrumento": ""
         },
         {
             "id": 7,
             "usuario": "SANTAMARIA",
-            "contrase\u00f1a": "ofbdg",
+            "contraseña": "ofbdg",
             "estatus": "activo",
             "jerarquia": "administrador",
             "mencion": "Instalaciones",
@@ -111,26 +132,32 @@
             "primer_apellido": "",
             "segundo_apellido": "",
             "cedula": "",
-            "cohorte": ""
+            "cohorte": "",
+            "correo": "",
+            "telefono": "",
+            "instrumento": ""
         },
         {
             "id": 8,
             "usuario": "INGM-34202010",
-            "contrase\u00f1a": "$2y$10$vyvfZ1refG0wKOLvd1tj9O6QP6AxnKER.whkiiUU6EzxMsYuYyDmO",
+            "contraseña": "$2y$10$vyvfZ1refG0wKOLvd1tj9O6QP6AxnKER.whkiiUU6EzxMsYuYyDmO",
             "estatus": "activo",
             "jerarquia": "asp",
             "mencion": "Operaciones",
             "primer_nombre": "Jorge",
             "segundo_nombre": "Daniel",
             "primer_apellido": "Tesorero",
-            "segundo_apellido": "Garc\u00eda",
+            "segundo_apellido": "García",
             "cedula": "34202010",
-            "cohorte": "2025-2"
+            "cohorte": "2025-2",
+            "correo": "",
+            "telefono": "",
+            "instrumento": ""
         },
         {
             "id": 9,
             "usuario": "INGM-32629553",
-            "contrase\u00f1a": "$2y$10$DcHlILyXFfbISxCYcXbKDOTvu8qlPCq.ZthH4EjTIyL1zxPHJYPTW",
+            "contraseña": "$2y$10$DcHlILyXFfbISxCYcXbKDOTvu8qlPCq.ZthH4EjTIyL1zxPHJYPTW",
             "estatus": "activo",
             "jerarquia": "asp",
             "mencion": "Operaciones ",
@@ -139,20 +166,32 @@
             "primer_apellido": "",
             "segundo_apellido": "",
             "cedula": "",
-            "cohorte": ""
+            "cohorte": "",
+            "correo": "",
+            "telefono": "",
+            "instrumento": ""
         },
         {
             "id": 10,
             "usuario": "INGM-31926906",
-            "contrase\u00f1a": "$2y$10$lN51wuAm2TK1mfhDf.fg6OLNifqSrB7IXOq9Fe0xOc.azSTPUUurm",
+            "contraseña": "$2y$10$lN51wuAm2TK1mfhDf.fg6OLNifqSrB7IXOq9Fe0xOc.azSTPUUurm",
             "estatus": "activo",
             "jerarquia": "asp",
-            "mencion": "Operaciones"
+            "mencion": "Operaciones",
+            "primer_nombre": "",
+            "segundo_nombre": "",
+            "primer_apellido": "",
+            "segundo_apellido": "",
+            "cedula": "",
+            "cohorte": "",
+            "correo": "",
+            "telefono": "",
+            "instrumento": ""
         },
         {
             "id": 11,
             "usuario": "INGM-32516175",
-            "contrase\u00f1a": "$2y$10$grAVmcxVz2fXc5sx1PKZDO\/LpVvraCljHVgKombSnKcIQ0clH4ApC",
+            "contraseña": "$2y$10$grAVmcxVz2fXc5sx1PKZDO/LpVvraCljHVgKombSnKcIQ0clH4ApC",
             "estatus": "activo",
             "jerarquia": "asp",
             "mencion": "Instalaciones ",
@@ -161,12 +200,15 @@
             "primer_apellido": "Hidalgo",
             "segundo_apellido": "Sanz",
             "cedula": "32516175",
-            "cohorte": "2025-1"
+            "cohorte": "2025-1",
+            "correo": "",
+            "telefono": "",
+            "instrumento": ""
         },
         {
             "id": 12,
             "usuario": "INGM-32696528",
-            "contrase\u00f1a": "$2y$10$Rf58zlVroGw79gCYHU3T8OmaJz.Zy3.mFtB1szINEgS3u4PqoEg7O",
+            "contraseña": "$2y$10$Rf58zlVroGw79gCYHU3T8OmaJz.Zy3.mFtB1szINEgS3u4PqoEg7O",
             "estatus": "activo",
             "jerarquia": "asp",
             "mencion": "Aspirante",
