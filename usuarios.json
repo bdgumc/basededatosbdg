@@ -225,9 +225,9 @@
         {
             "id": 13,
             "usuario": "INGM-32120167",
-            "contrase\u00f1a": "$2y$10$iY2Ks939eevYo7pqkX79Ceg4ima8gcK9LT6ni5a2brAz5mtDwS\/j6",
+            "contrase\u00f1a": "32120167jr",
             "estatus": "activo",
-            "jerarquia": "mayor",
+            "jerarquia": "antiguo",
             "mencion": "Operaciones",
             "primer_nombre": "Jean Paul",
             "segundo_nombre": "Eduardo",
