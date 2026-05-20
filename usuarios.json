@@ -1,5 +1,5 @@
 {
-    "ultima_actualizacion": "2026-05-20T02:13:41Z",
+    "ultima_actualizacion": "2026-05-20T02:19:32Z",
     "usuarios": [
         {
             "id": 1,
@@ -58,7 +58,7 @@
             "contrase\u00f1a": "$2y$10$d6n9WvKSOWtz4q0s7\/RWJOUnkgLPrX47.t1F6TZd0T2u.6SlG7vuG",
             "estatus": "activo",
             "jerarquia": "asp",
-            "mencion": "Instalaciones",
+            "mencion": "ETO",
             "primer_nombre": "ROSMY",
             "segundo_nombre": "DANIEL",
             "primer_apellido": "COLMENARES",
@@ -67,7 +67,7 @@
             "cohorte": "2025-1",
             "correo": "",
             "telefono": "",
-            "instrumento": ""
+            "instrumento": "Granadero"
         },
         {
             "id": 5,
