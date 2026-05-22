@@ -1,5 +1,5 @@
 {
-    "ultima_actualizacion": "2026-05-20T02:19:32Z",
+    "ultima_actualizacion": "2026-05-22T03:04:07Z",
     "usuarios": [
         {
             "id": 1,
@@ -7,16 +7,16 @@
             "contrase\u00f1a": "$2y$10$2jhZBTt.V\/iQ5vXiDppEJ.sDwhGM\/fiksaVpKXCGOR3CVQ.d6nu6m",
             "estatus": "activo",
             "jerarquia": "administrador",
-            "mencion": "Instalaciones",
+            "mencion": "Operaciones",
             "primer_nombre": "Enyerson",
             "segundo_nombre": "Manuel",
             "primer_apellido": "Fernandez",
             "segundo_apellido": "Hernandez",
             "cedula": "32370953",
             "cohorte": "2025-1",
-            "correo": "",
-            "telefono": "",
-            "instrumento": ""
+            "correo": "ofmanuelle@proton.me",
+            "telefono": "04128208326",
+            "instrumento": "Granadero"
         },
         {
             "id": 2,
