@@ -1,5 +1,5 @@
 {
-    "ultima_actualizacion": "2026-05-27T18:55:25Z",
+    "ultima_actualizacion": "2026-05-27T19:04:11Z",
     "usuarios": [
         {
             "id": 1,
@@ -238,6 +238,23 @@
             "correo": "",
             "telefono": "",
             "instrumento": "Bombo"
+        },
+        {
+            "id": 14,
+            "usuario": "INGM-32729825",
+            "contrase\u00f1a": "$2y$10$YGWvr8Fz3QCPoP\/gdVR14.ce6Fv19ukSbxvRudiH5OOoTRmIuImU.",
+            "estatus": "activo",
+            "jerarquia": "asp",
+            "mencion": "Aspirante",
+            "primer_nombre": "denilson",
+            "segundo_nombre": "jesus",
+            "primer_apellido": "escobar",
+            "segundo_apellido": "gouveia",
+            "cedula": "32729825",
+            "cohorte": "2025-2",
+            "correo": "denilsonescoobar83@gmail.com",
+            "telefono": "04126314558",
+            "instrumento": "Trompeta"
         }
     ]
 }
