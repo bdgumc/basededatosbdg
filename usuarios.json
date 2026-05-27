@@ -1,5 +1,5 @@
 {
-    "ultima_actualizacion": "2026-05-22T03:04:07Z",
+    "ultima_actualizacion": "2026-05-27T18:55:25Z",
     "usuarios": [
         {
             "id": 1,
@@ -88,11 +88,11 @@
         },
         {
             "id": 6,
-            "usuario": "CDT",
+            "usuario": "",
             "contrase\u00f1a": "$2y$10$AqL\/uSxw.lcTgKWa\/LhRRuqfZA2bi5whmFcDs4JrY0tyMW7PL4EMW",
-            "estatus": "activo",
-            "jerarquia": "antiguo",
-            "mencion": "Instalaciones",
+            "estatus": "suspendido",
+            "jerarquia": null,
+            "mencion": null,
             "primer_nombre": "",
             "segundo_nombre": "",
             "primer_apellido": "",
@@ -169,7 +169,7 @@
             "cohorte": "2025-1",
             "correo": "",
             "telefono": "04226002568",
-            "instrumento": "granadero"
+            "instrumento": "Granadero"
         },
         {
             "id": 10,
