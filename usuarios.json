@@ -1,5 +1,5 @@
 {
-    "ultima_actualizacion": "2026-06-02T17:55:58Z",
+    "ultima_actualizacion": "2026-06-02T18:11:13Z",
     "usuarios": [
         {
             "id": 1,
@@ -77,11 +77,11 @@
             "jerarquia": "asp",
             "mencion": "Instalaciones",
             "primer_nombre": "",
-            "segundo_nombre": "",
-            "primer_apellido": "",
-            "segundo_apellido": "",
-            "cedula": "",
-            "cohorte": "",
+            "segundo_nombre": "Samuel",
+            "primer_apellido": "David",
+            "segundo_apellido": "PARUCHA",
+            "cedula": "GONZ\u00c1LEZ",
+            "cohorte": "2025-1",
             "correo": "",
             "telefono": "",
             "instrumento": ""
@@ -261,8 +261,8 @@
             "usuario": "INGM-31656193",
             "contrase\u00f1a": "$2y$10$wXtnvYJZ1lLw2U3zICexlu8fOyy6KkBYI9Gf0pkhCKy424ZeCq.OK",
             "estatus": "activo",
-            "jerarquia": "asp",
-            "mencion": "Aspirante",
+            "jerarquia": "antiguo",
+            "mencion": "Operaciones",
             "primer_nombre": "Heri",
             "segundo_nombre": "Manuel",
             "primer_apellido": "Rujano",
@@ -272,6 +272,40 @@
             "correo": "herirujano@gmail.com",
             "telefono": "04241339300",
             "instrumento": "Lira"
+        },
+        {
+            "id": 16,
+            "usuario": "INGM-30411328",
+            "contrase\u00f1a": "$2y$10$p9BGr\/1hyRwcsKAQKf\/uiu.8lBz7yt6GCuLAkwThZKNQAPe.SBZd6",
+            "estatus": "activo",
+            "jerarquia": "antiguo",
+            "mencion": "Operaciones",
+            "primer_nombre": "Miguel",
+            "segundo_nombre": "David",
+            "primer_apellido": "MOR\u00c1N",
+            "segundo_apellido": "HERN\u00c1NDEZ",
+            "cedula": "30411328",
+            "cohorte": "2021-1",
+            "correo": "miguelmoranumc@gmail.com",
+            "telefono": "04120191966",
+            "instrumento": "Redoblante"
+        },
+        {
+            "id": 17,
+            "usuario": "INGM-30433367",
+            "contrase\u00f1a": "$2y$10$emkbPsaH3ZYnffX5iIdzHOa\/BNjOuKD.gzBOtNWtKHbrW.Yfrb.2i",
+            "estatus": "activo",
+            "jerarquia": "mayor",
+            "mencion": "Instalaciones",
+            "primer_nombre": "Luis",
+            "segundo_nombre": "Carlos",
+            "primer_apellido": "PEREZ",
+            "segundo_apellido": "PINEDA",
+            "cedula": "30433367",
+            "cohorte": "2023-1",
+            "correo": "",
+            "telefono": "",
+            "instrumento": "Redoblante"
         }
     ]
 }
