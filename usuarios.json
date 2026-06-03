@@ -1,5 +1,5 @@
 {
-    "ultima_actualizacion": "2026-06-02T18:11:13Z",
+    "ultima_actualizacion": "2026-06-03T02:05:54Z",
     "usuarios": [
         {
             "id": 1,
@@ -30,10 +30,10 @@
             "primer_apellido": "Gonzales",
             "segundo_apellido": "Bello",
             "cedula": "30886890",
-            "cohorte": "2023-02",
+            "cohorte": "2023-2",
             "correo": "",
             "telefono": "",
-            "instrumento": ""
+            "instrumento": "Granadero"
         },
         {
             "id": 3,
