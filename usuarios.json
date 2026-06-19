@@ -1,5 +1,5 @@
 {
-    "ultima_actualizacion": "2026-06-03T02:05:54Z",
+    "ultima_actualizacion": "2026-06-19T18:20:27Z",
     "usuarios": [
         {
             "id": 1,
@@ -258,20 +258,20 @@
         },
         {
             "id": 15,
-            "usuario": "INGM-31656193",
+            "usuario": "",
             "contrase\u00f1a": "$2y$10$wXtnvYJZ1lLw2U3zICexlu8fOyy6KkBYI9Gf0pkhCKy424ZeCq.OK",
-            "estatus": "activo",
-            "jerarquia": "antiguo",
-            "mencion": "Operaciones",
-            "primer_nombre": "Heri",
-            "segundo_nombre": "Manuel",
-            "primer_apellido": "Rujano",
-            "segundo_apellido": "Figueira",
-            "cedula": "31656193",
-            "cohorte": "2023-2",
-            "correo": "herirujano@gmail.com",
-            "telefono": "04241339300",
-            "instrumento": "Lira"
+            "estatus": "suspendido",
+            "jerarquia": null,
+            "mencion": null,
+            "primer_nombre": "",
+            "segundo_nombre": "",
+            "primer_apellido": "",
+            "segundo_apellido": "",
+            "cedula": "",
+            "cohorte": "",
+            "correo": "",
+            "telefono": "",
+            "instrumento": ""
         },
         {
             "id": 16,
