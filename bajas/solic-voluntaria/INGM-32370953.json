@@ -7,10 +7,10 @@
     "motivo_codificado": "Motivos estrictamente personales",
     "motivo_otros": null,
     "fecha_solicitud": "2026-05-19T16:24:04Z",
-    "estado": "pendiente",
-    "fecha_estado": "2026-05-19T16:24:04Z",
-    "fecha_rechazo_automatico": null,
+    "estado": "rechazado",
+    "fecha_estado": "2026-06-21T01:15:56Z",
+    "fecha_rechazo_automatico": "2026-06-21T01:15:56Z",
     "fecha_aprobacion": null,
-    "comentarios_admin": null,
+    "comentarios_admin": "Rechazo autom\u00e1tico por superar 4 semanas sin aprobaci\u00f3n.",
     "documento_generado": true
 }
